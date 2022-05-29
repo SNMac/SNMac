@@ -3,7 +3,6 @@
 1. 여름방학부터 알고리즘 문제 풀기 (최소 하루 1개)
 2. 프로그래밍 언어 배우기
   - Verilog
-  - 자바스크립트
-  - C++ or Objective-C or Swift
+  - C++
+  - JS or Objective-C or Swift
 3. (가능하다면) FPGA 건드려보기...?
-4. 모바일 AP관련 자료 찾아서 정리하기 (+ MIPS 프로세서 정리)
