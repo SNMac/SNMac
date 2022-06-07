@@ -4,5 +4,5 @@
 2. 프로그래밍 언어 배우기
   - Verilog
   - C++
-  - JS or Objective-C or Swift
+  - JS or Swift
 3. (가능하다면) FPGA 건드려보기...?
