@@ -1,4 +1,4 @@
-# 서동환 (DongHwan Seo)
+# 서동환 (SNMac)
 
 ## Introduce
 안녕하세요! iOS 개발자 서동환입니다.  
@@ -12,6 +12,7 @@ Kotlin을 활용한 Android 네이티브 앱 개발에도 흥미가 있습니다
 ![Static Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Mermaid-FF3670?logo=mermaid&logoColor=white&logoSize=auto)
 
 ## Education
 - 단국대학교 모바일시스템공학과 학사 졸업 (2018.03 ~ 2025.02)
