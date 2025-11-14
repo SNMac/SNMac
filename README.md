@@ -17,3 +17,13 @@ Kotlin을 활용한 Android 네이티브 앱 개발에도 흥미가 있습니다
 ## Education
 - 단국대학교 모바일시스템공학과 학사 졸업 (2018.03 ~ 2025.02)
 - 내일배움캠프 iOS 마스터 6기 수료 (2025.03 ~ 2025.07)
+
+## Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SNMac&repo=SYKeyboard&theme=swift)](https://github.com/SNMac/SYKeyboard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=5-rganization&repo=MOUP-iOS&theme=swift&show_owner=true)](https://github.com/5-rganization/MOUP-iOS)
+
+## GitHub Stats
+
+![SNMac's GitHub stats](https://github-readme-stats.vercel.app/api?username=SNMac&theme=swift&show_icons=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SNMac&hide=assembly,c,shaderlab,hlsl&layout=compact&theme=swift)
