@@ -34,6 +34,6 @@ Kotlin을 활용한 Android 네이티브 앱 개발에도 흥미가 있습니다
 ## GitHub Stats
 
 ![SNMac's GitHub stats](https://github-readme-stats.vercel.app/api?username=SNMac&theme=swift&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SNMac&hide=assembly,c,shaderlab,hlsl&layout=compact&theme=swift)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SNMac&hide=assembly,c,shaderlab,hlsl,makefile,html,css&layout=compact&theme=swift)
 
 <br>
