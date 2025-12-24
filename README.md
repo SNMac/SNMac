@@ -2,8 +2,9 @@
 
 ## Introduce
 안녕하세요! iOS 개발자 서동환입니다.  
-현재 Swift+UIKit을 주력으로 사용중이며, SwiftUI도 공부중입니다.  
-Kotlin을 활용한 Android 네이티브 앱 개발에도 흥미가 있습니다.
+- UIKit과 RxSwift에 대한 iOS 앱 개발 및 배포 경험이 있습니다.
+- SwiftUI와 Combine에 대한 기초적인 이해가 있습니다.
+- Flutter를 사용한 iOS, Android 하이브리드 앱 개발과 Kotlin을 활용한 Android 네이티브 앱 개발에도 흥미가 있습니다.
 
 <br>
 
@@ -14,7 +15,6 @@ Kotlin을 활용한 Android 네이티브 앱 개발에도 흥미가 있습니다
 ![Static Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=white&logoSize=auto)
-![Static Badge](https://img.shields.io/badge/Mermaid-FF3670?logo=mermaid&logoColor=white&logoSize=auto)
 
 <br>
 
@@ -28,12 +28,13 @@ Kotlin을 활용한 Android 네이티브 앱 개발에도 흥미가 있습니다
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SNMac&repo=SYKeyboard&theme=swift)](https://github.com/SNMac/SYKeyboard)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=5-rganization&repo=MOUP-iOS&theme=swift&show_owner=true)](https://github.com/5-rganization/MOUP-iOS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SNMac&repo=Challenge-iTunes-DongHwan&theme=swift)](https://github.com/SNMac/Challenge-iTunes-DongHwan)
 
 <br>
 
 ## GitHub Stats
 
 ![SNMac's GitHub stats](https://github-readme-stats.vercel.app/api?username=SNMac&theme=swift&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SNMac&hide=assembly,c,shaderlab,hlsl,makefile,html,css&layout=compact&theme=swift)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SNMac&exclude_repo=Baekjoon,Goldmetal-Unity-QuadActionGame&layout=compact&theme=swift)
 
 <br>
