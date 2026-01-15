@@ -23,18 +23,3 @@
 - 내일배움캠프 iOS 마스터 6기 수료 (2025.03 ~ 2025.07)
 
 <br>
-
-## Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SNMac&repo=SYKeyboard&theme=swift)](https://github.com/SNMac/SYKeyboard)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=5-rganization&repo=MOUP-iOS&theme=swift&show_owner=true)](https://github.com/5-rganization/MOUP-iOS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SNMac&repo=Challenge-iTunes-DongHwan&theme=swift)](https://github.com/SNMac/Challenge-iTunes-DongHwan)
-
-<br>
-
-## GitHub Stats
-
-![SNMac's GitHub stats](https://github-readme-stats.vercel.app/api?username=SNMac&theme=swift&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SNMac&exclude_repo=Baekjoon,Goldmetal-Unity-QuadActionGame&layout=compact&theme=swift)
-
-<br>
